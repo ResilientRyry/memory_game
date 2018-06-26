@@ -1,0 +1,30 @@
+.goku .selected, .goku.matched{
+  background-image: url('https://yt3.ggpht.com/ywHXiNDkso-qg8w7o_XS6dmm9vnlODkymUAGdxWacZ2OtfRHrlF8BtqrVvXv1AT3g4nB5mIrQAPbQbPyeA=s900-mo-c-c0xffffffff-rj-k-no');
+  background-repeat: no-repeat;
+  background-size: 400px;
+}
+.ghoul .selected, .ghoul.matched{
+  background-image: url('https://res.cloudinary.com/sfp/image/upload/w_310,h_372,c_fill,q_60/oth/FunimationStoreFront/1749661/English/1749661_English_ShowThumbnail_cc689394-ad36-e811-8175-020165574d09.jpg');
+  background-repeat: no-repeat;
+  background-size: 400px;
+}
+.assassin .selected, .assassin.matched{
+  background-image: url('https://image.spreadshirtmedia.com/image-server/v1/compositions/1009454209/views/1,width=650,height=650,appearanceId=54,backgroundColor=cecece,version=1468495391/korosensei-face-smiling-from-anime-assassination-classroom.jpg');
+  background-repeat: no-repeat;
+  background-size: 400px;
+}
+.luffy .selected, .luffy.matched{
+  background-image: url('https://pbs.twimg.com/profile_images/2060304342/Post-Timeskip-Luffy1-339x600_400x400.png');
+  background-repeat: no-repeat;
+}
+.ichi .selected, .ichi.matched{
+  background-image: url('https://pbs.twimg.com/profile_images/791904691667939328/k56liShM_400x400.jpg');
+  background-repeat: no-repeat;
+}
+section{
+  width: 200px;
+  height: 300px;
+  margin: 20px;
+  float: left;
+  border: 1px solid blue;
+}
