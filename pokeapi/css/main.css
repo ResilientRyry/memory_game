@@ -1,0 +1,75 @@
+.container{
+  width: 100%;
+  background: url(https://data.pixiz.com/output/user/frame/preview/400x400/2/3/0/0/2200032_50ba6.jpg) center center no-repeat;
+  background-size: contain;
+  height: 70vh;
+  margin-top: 1vh;
+}
+
+h1{
+  width: 100%;
+  text-align: center;
+  font-size: 60px;
+}
+#chik{
+  margin-left: 37%;
+  background-color: darkgreen;
+  color: white;
+}
+#chim{
+  background-color: red;
+  color: white;
+}
+#eev{
+  background-color: beige;
+  color: black;
+}
+button{
+  width: 10%;
+  height: 25px;
+}
+.pokeball{
+  width: 23%;
+  height: 200px;
+  margin-left: 23.5%;
+  margin-top: 15%;
+  float: left;
+}
+
+.chikorita{
+  width: 30%;
+  height: 200px;
+  margin-left: 20%;
+  margin-top: 15%;
+  float: left;
+  display: none;
+}
+
+.chimchar{
+  width: 23%;
+  height: 200px;
+  margin-left: 24%;
+  margin-top: 15%;
+  float: left;
+  display: none;
+}
+.eevee{
+  width: 23%;
+  height: 200px;
+  margin-left: 23.5%;
+  margin-top: 15%;
+  float: left;
+  display: none;
+}
+p{
+  width: 40%;
+  text-align: center;
+  margin-top: 12%;
+  float: left;
+}
+
+h2{
+  width: 100%;
+  text-align: center;
+  font-size: 45px;
+}
